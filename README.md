@@ -1,0 +1,2 @@
+rails-mongoid-devise-example
+============================
